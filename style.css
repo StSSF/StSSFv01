@@ -20,7 +20,7 @@ header {
 .logo {
   display: block;
   margin: 2rem auto;
-  max-width: 600px;  /* <-- Larger size */
+  max-width: 300px;  /* <-- Larger size */
   height: auto;
 }
 
